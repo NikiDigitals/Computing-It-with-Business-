@@ -15,7 +15,7 @@ The different assignment operators.
 ## key concepts
 * Operators: The use of operators in Python: PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
 * Variable: You can assign a variable to a value, which will then store the value. After that, you can change the value inside the variable.  
-* When naming a variable there are some rules in Python:
+* When naming a variable, there are some rules in Python:
 1. Only use ordinary letters, numbers and underscores in your variable names.
 2. You can’t use reserved words or built-in identifiers as a variable name
 3. When naming, use all lowercase letters and underscores to separate words. This is called snake case.
