@@ -4,7 +4,7 @@ Welcome to my Computing and IT Knowledge Hub!
 This repository services as a <b>personal learning archive</b>
 - To track my growth in the subject Computing and IT over time
 - To capture <b>knowledge</b> (Notes/resources) and <b>process</b> (journals/projects/writings)
-- To support my larger projects in my portfolio repository.
+- To support my larger projects in my [ Portfolio](https://github.com/NikiDigitals/Portfolio_Projects) repository. 
 
 ## 📂 Folder Structure
 ** Journals - Learning journals and reflections.  
