@@ -9,8 +9,8 @@ Related notes: [2025-09-04 Pyhon Data Types and Operations](https://github.com/N
 
 
 ## What I did
-I learned about fundamental concepts in the programming language Python. The lectures were about 
-the use of the `print() statement, operators and the correct use of variables. 
+I learned about fundamental concepts in the programming language Python. 
+The lectures covered the use of the `print()` statement, operators, and the correct use of variables. 
 
 ## Observations
 It's a nice first step into the world of programming, and I like the fact that I don't need to install anything on my computer to follow along with the lectures and do the exercises. 
@@ -26,4 +26,6 @@ It took me some time to understand that I had to rewrite the code from the first
 * It is important to think in steps. Every line is a new instruction, creating a new situation. 
 
 ## Next steps
-
+In the next session, I will learn about:
+* integers, floats, and booleans.
+* comparison operators and logical operators 
