@@ -8,9 +8,9 @@ Related journals: [2025-09-04 Pyhon Data Types and Operations](https://github.co
 ---------------
 
 ## Overview
-How to use different operators and how to use them for calculations.
+In this section, I learned how to use various operators and apply them to calculations.
 How to use and name variables correctly in Python.
-The different assignment operators.
+The various assignment operators and their usage in code. 
 
 ## key concepts
 * Operators: The use of operators in Python: PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
@@ -19,6 +19,7 @@ The different assignment operators.
 1. Only use ordinary letters, numbers and underscores in your variable names.
 2. You can’t use reserved words or built-in identifiers as a variable name
 3. When naming, use all lowercase letters and underscores to separate words. This is called snake case.
+* With an assignment operator, I can perform a calculation using the current value of the variable, perform the calculation on that and store it as a new value of the variable. 
 
 ## Definitions/Syntax
 <b> print() </b> is a built-in function that displays input values as text in the output.
