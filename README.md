@@ -26,7 +26,7 @@ Each file starts with a block of metadata to connect related content:
 <h4>Other knowledge hubs:</h4>
 
 [⭕ IT Governance, Risk and Compliance](https://github.com/NikiDigitals/GRC)  
-[🌐 Enterprise Sysytems](https://github.com/NikiDigitals/systems)  
+[🌐 Enterprise Systems](https://github.com/NikiDigitals/systems)  
 [📊 Finance and Accounting](https://github.com/NikiDigitals/Finance-and-accounting)  
 [💼 Business and Management](https://github.com/NikiDigitals/Management-Business)  
 [📑 Others](https://github.com/NikiDigitals/others)  
