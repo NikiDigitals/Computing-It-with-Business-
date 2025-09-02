@@ -144,5 +144,5 @@ new_str.split(' ', 3)
 [read more](https://docs.python.org/3/library/stdtypes.html#string-methods) about strings and string methods
 
 -------------------
-lesson 1 journal: [2025-09-01-python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)     
-lesson 1 notes: [2025-09-01-python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)    
+ 2025-09-01 journal: [python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)     
+2025-09-01 notes: [python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)    
