@@ -21,40 +21,73 @@ The various assignment operators and their usage in code.
 3. When naming, use all lowercase letters and underscores to separate words. This is called snake case.
 * With an assignment operator, I can perform a calculation using the current value of the variable, perform the calculation on that and store it as a new value of the variable. 
 
+## whitespaces & good readable coding.
+<i>see the Python's style guide 'PEP8' </i>
+* When calling a function like `print`, add the `(` directly after without a whitespace.
+* Don't write long lines of code; try to stay between 79 and 99 characters per line.
+
 ## Definitions/Syntax
-<b> print() </b> is a built-in function that displays input values as text in the output.
+`print()` is a built-in function that displays input values as text in the output.  
+`print(type()) ` is a built-in function that will return the data type of the value within the brackets.  
 
 <b>Arithmetic operators:</b>  
-
-" + " addition  
-" - " subtraction     
-" * " multiplication     
-" / " division  
-" % " mod (the remainder after dividing)  
-" ** " Exponentiation   
-" // "  Divides and rounds down to the nearest integer
+` + ` addition  
+` - ` subtraction     
+` * ` multiplication     
+` / ` division  
+` % ` mod (the remainder after dividing)  
+` ** ` Exponentiation   
+` // `  Divides and rounds down to the nearest integer
 
  <b>Assignment operators:</b>  
- " = "  x = 2   
- " +="  x = x + 2  
- " -= " x = x - 2  
- " *= " x = x * 2
+ ` = `  x = 2   
+ ` += `  x = x + 2  
+ ` -= ` x = x - 2  
+ ` *= ` x = x * 2
+
+<b>Datatypes</b>   
+* Int: whole numbers   
+* float: Real number with decimal.   
+* Calculating with an integer and a float results in a float
+* Be aware! Python uses approximations for a float
+* bool: a boolean datatype can have true or false as a value.
+
+<b>Comparison operaters</b>  
+`<` less than  
+`>` greater than  
+`<=` less than or equal to  
+`>=` greater than or equal to  
+`==` equal to  
+`!=` not equal to  
+
+<b>Logical operarors</b>  
+`And` evaluates if both sides are true  
+`or` evaluates if at least one side is true  
+`not` inverts a boolean datatype.  
 
 ## Examples
 Use the print()
 ```python
 print("Hello World")
+Hello World                    # printed result.  
 ```
+Use the type function:
+
+```python
+print(type(4)) 
+<class 'int'>                  # printed result 
+ ```
 Use the operators:
 
 ``` python
 x = 5 + 3
 print(x)
+8                               # printed result
 ```
 
 Use of variables and assignment operators:
 
-```python
+```python  
 rainfall = 5e6                 # The amount of rainfall (in cubic metres)
 reservoir_volume = 4.445e8     # The current volume of a water reservoir (in cubic metres)
 rainfall *= .9                 # decrease the rainfall variable by 10% 
@@ -62,6 +95,28 @@ reservoir_volume += rainfall   # add the rainfall variable to the reservoir_volu
 reservoir_volume *= 1.05       # increase reservoir_volume by 5% 
 reservoir_volume *= .95        # decrease reservoir_volume by 5% 
 reservoir_volume -= 2.5e5      # substract 2.5e5 cubic metres from reservoir_volume 
+```
+Changing a float and int:
+
+```python
+print(int(48.6))               # changing a float into a int
+48                             # printed result
+
+print(float(3200 + 400))       # print the result as a float
+3600.0                         # printed result
+```
+
+Using a Boolean with operator:
+```python
+age = 5
+is_teen = age > 12 and age < 18 
+print(is_teen)                       
+false                           # printed result
+
+age = 5
+not_teen = not (age > 12 and age < 18)
+print(not_teen)
+true                            # printed result of reversed.  
 ```
 
 ## lesson learned
@@ -71,5 +126,7 @@ reservoir_volume -= 2.5e5      # substract 2.5e5 cubic metres from reservoir_vol
 ## external resources: 
 [bitwise operators](https://wiki.python.org/moin/BitwiseOperators)   
 [order of operations in Math](https://en.wikipedia.org/wiki/Order_of_operations)   
-[Python reserved words](https://docs.python.org/3/reference/lexical_analysis.html#keywords)
+[Python reserved words](https://docs.python.org/3/reference/lexical_analysis.html#keywords)   
+[PEP8 styleguide](https://peps.python.org/pep-0008/)
+[Guide on Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 
