@@ -5,8 +5,6 @@ Type: note
 Tags: Python, basics, Data Types, Operators  
 Related Project(s):  
 Related notes: [2025-09-02-python-strings-and-typeconversion](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-02-python-strings-and-typeconversion.md)    
-lesson 1 journal: [2025-09-01-python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)   
-lesson 1 notes: [2025-09-01-python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)   
 ------------------------------
 
 
@@ -25,7 +23,7 @@ I can only imagine the possibilities this gives moving forward!
 
 ## challenges
 As I'm new to coding, I find the strict syntax a real challenge!
-I can't believe how many times I've forgotten a quote or parentheses somewhere.
+I'm amazed at how often I forget to include a quote or parentheses.
 I also need to be very mindful of capitalising.
 
 ## Takeaways
@@ -35,3 +33,7 @@ Now the exercises are limited, which makes it still easy to spot an error, but w
 ## Next steps
 I will learn about data structures, organise and group data types into different containers.   
 I will also learn about the remaining types of operators in Python, along with more useful built-in functions and methods.
+
+--------------------------------
+lesson 1 journal: [2025-09-01-python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)   
+lesson 1 notes: [2025-09-01-python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)   
