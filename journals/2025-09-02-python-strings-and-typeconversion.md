@@ -35,5 +35,5 @@ I will learn about data structures, organise and group data types into different
 I will also learn about the remaining types of operators in Python, along with more useful built-in functions and methods.
 
 --------------------------------
-lesson 1 journal: [2025-09-01-python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)   
-lesson 1 notes: [2025-09-01-python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)   
+2025-09-01 journal: [python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)   
+2025-09-01 notes: [python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)   
