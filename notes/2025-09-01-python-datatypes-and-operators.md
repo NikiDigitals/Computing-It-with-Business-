@@ -88,13 +88,13 @@ print(x)
 Use of variables and assignment operators:
 
 ```python  
-rainfall = 5e6                 # The amount of rainfall (in cubic metres)
-reservoir_volume = 4.445e8     # The current volume of a water reservoir (in cubic metres)
-rainfall *= .9                 # decrease the rainfall variable by 10% 
-reservoir_volume += rainfall   # add the rainfall variable to the reservoir_volume variable
-reservoir_volume *= 1.05       # increase reservoir_volume by 5% 
-reservoir_volume *= .95        # decrease reservoir_volume by 5% 
-reservoir_volume -= 2.5e5      # substract 2.5e5 cubic metres from reservoir_volume 
+rain = 2e6                 # The amount of rain (in cubic metres)
+volume_watertank = 4.5e8     # The current volume of a water water tank (in cubic metres)
+rain *= .9                 # decrease the rainvariable by 10% 
+volume_watertank += rain   # add the raivariable to the volume_watertank variable
+volume_watertank *= 1.15       # increase volume_watertank by 15% 
+volume_watertank *= .91        # decrease volume by 9% 
+volume_watertank -= 1.2e5      # substract 1.2e5 cubic metres from volume_watertank
 ```
 Changing a float and int:
 
