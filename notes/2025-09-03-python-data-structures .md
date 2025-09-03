@@ -61,7 +61,7 @@ Hello                                                       # printed result
 random_list[:2]                                             # print the elements from the start of the list until index 2  
 1, Hello                                                    # printed result  
 
-random_list[1:]                                             # print the elements starting on index place 1 - the end of the list
+random_list[1:]                                             # print the elements starting on index place 1 - end of the list
 Hello, 7.3, False                                           # printed result  
 ```
 Is a word included/excluded from the list?
