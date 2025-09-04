@@ -4,8 +4,8 @@ Date:2025-09-02
 Type: note  
 Tags: Python, basics, Data Types, Operators  
 Related Project(s):  
-Related notes: [2025-09-02-python-strings-and-typeconversion](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-02-python-strings-and-typeconversion.md)    
-------------------------------
+Related notes: [Udacity-python-strings-and-typeconversion](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/udacity-python-strings-and-typeconversion.md)    
+-----------------------------
 
 
 ## What I did
@@ -35,5 +35,5 @@ I will learn about data structures, organise and group data types into different
 I will also learn about the remaining types of operators in Python, along with more useful built-in functions and methods.
 
 --------------------------------
-2025-09-01 journal: [python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)   
-2025-09-01 notes: [python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)   
+journal: [Udacity-python datatypes and operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/udacity-python-datatypes-and-operators.md)   
+notes: [Udacity-python datatypes and operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/udacity-python-datatypes-and-operators.md)
