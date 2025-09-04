@@ -4,7 +4,7 @@ Date: 2025-09-01
 Type: note  
 Tags: Python, basics, Data Types, Operators  
 Related Project(s)  
-Related journals: [2025-09-01 Pyhon Data Types and Operations](https://github.com/NikiDigitals/Computing-IT/tree/main/journals/Udacity-python-datatypes-and-operators.md)
+Related journals: [Udacity-Pyhon Data Types and Operations](https://github.com/NikiDigitals/Computing-IT/tree/main/journals/udacity-python-datatypes-and-operators.md)
 ---------------
 
 ## Overview
