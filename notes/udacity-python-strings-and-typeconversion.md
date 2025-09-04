@@ -4,7 +4,7 @@ Date: 2025-09-02
 Type: note  
 Tags: Python, basics, strings, bool, methods 
 Related Project(s)  
-Related journals: [2025-09-02-python-strings-and-typeconversion](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-02-python-strings-and-typeconversion.md)   
+Related journals: [Udacity-python-strings-and-typeconversion](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/udacity-python-strings-and-typeconversion.md)   
 ---------------
 
 ## Overview
@@ -144,5 +144,5 @@ new_str.split(' ', 3)
 [read more](https://docs.python.org/3/library/stdtypes.html#string-methods) about strings and string methods
 
 -------------------
- 2025-09-01 journal: [python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/2025-09-01-python-datatypes-and-operators.md)     
-2025-09-01 notes: [python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/2025-09-01-python-datatypes-and-operators.md)    
+ journals: [python-datatypes-and-operators](https://github.com/NikiDigitals/Computing-IT/blob/main/journals/udacity-python-datatypes-and-operators.md)     
+ notes: [python-datatypes-and-operators.](https://github.com/NikiDigitals/Computing-IT/blob/main/notes/udacity-python-datatypes-and-operators.md)    
